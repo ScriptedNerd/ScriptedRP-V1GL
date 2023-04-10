@@ -1,0 +1,17 @@
+{
+	"PrimaryWeaponList": [
+		"ak47",
+		"ar",
+		"awp",
+		"lmga",
+		"mp5",
+		"p90",
+		"aug"
+	],
+	"SecondaryWeaponList": [
+		"de",
+		"revolver"
+	],
+	"SpawnCash": 1000,
+	"BuyingEnabled": false
+}
