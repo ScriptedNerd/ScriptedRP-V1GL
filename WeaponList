@@ -13,5 +13,5 @@
 		"revolver"
 	],
 	"SpawnCash": 1000,
-	"BuyingEnabled": false
+	"BuyingEnabled": true
 }
